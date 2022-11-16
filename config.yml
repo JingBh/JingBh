@@ -1,0 +1,58 @@
+baseURL: https://www.jingbh.top/
+title: JingBh
+
+hasCJKLanguage: true
+languageCode: zh
+
+enableRobotsTxt: false
+googleAnalytics: 'UA-127450734-2'
+
+minify:
+  minifyOutput: true
+disableKinds:
+  - taxonomy
+  - term
+  - RSS
+  - sitemap
+  - '404'
+
+theme: 'PaperMod'
+params:
+  env: production
+  description: "JingBh's Personal Profile Page"
+  keywords:
+    - Profile
+  author: JingBh
+  defaultTheme: auto
+  disableThemeToggle: true
+
+  assets:
+    disableHLJS: true
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+
+  profileMode:
+    enabled: true
+    title: Bohao Jing
+    subtitle: "A student who loves programming."
+    imageUrl: "https://avatars.githubusercontent.com/u/26338708?s=300"
+    imageTitle: "JingBh's Avatar"
+
+    buttons:
+      - name: My Github Profile
+        url: "https://github.com/JingBh"
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:jingbohao@yeah.net"
+    - name: "telegram"
+      url: "https://t.me/JingBh"
+    - name: "github"
+      url: "https://github.com/JingBh"
+    - name: "key"
+      url: "https://github.com/JingBh.gpg"
+    - name: "网易云音乐"
+      url: "https://music.163.com/#/user/home?id=421963201"
+    - name: "steam"
+      url: "https://steamcommunity.com/id/JingBh"
