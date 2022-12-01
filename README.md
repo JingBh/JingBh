@@ -88,17 +88,11 @@ Runtimes:
 
 ## Server Operation
 
-<span>
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0DB7Ed?style=flat&logo=docker&logoColor=white">
-</span>
-
-... along with a couple of databases that I'm not confident enough to put them here, as I've only used them a few times.
+![Docker](https://img.shields.io/badge/Docker-0DB7Ed?style=flat&logo=docker&logoColor=white)
 
 ### Linux
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 
 Note that I'm **NOT** a daily Linux user.
@@ -116,6 +110,8 @@ Note that I'm **NOT** a daily Linux user.
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/JingBh)
+[![E-mail (personal)](https://img.shields.io/badge/E--mail-Personal-informational?style=flat)](mailto:jingbohao@yeah.net)
+[![E-mail (school)](https://img.shields.io/badge/E--mail-School-informational?style=flat)](mailto:jingbh@emails.bjut.edu.cn)
 
 ### Natural Languages
 
