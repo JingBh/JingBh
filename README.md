@@ -113,6 +113,8 @@ Note that I'm **NOT** a daily Linux user.
 [![E-mail (personal)](https://img.shields.io/badge/E--mail-Personal-informational?style=flat)](mailto:jingbohao@yeah.net)
 [![E-mail (school)](https://img.shields.io/badge/E--mail-School-informational?style=flat)](mailto:jingbh@emails.bjut.edu.cn)
 
+[![GPG Key](https://img.shields.io/badge/GPG%20Key-A2E8%20AFCF%20CAD1%208D47-orange?style=flat)](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xa2e8afcfcad18d47)
+
 ### Natural Languages
 
 ![zh_CN](https://img.shields.io/badge/zh__CN-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABAlBMVEUAAADeKBDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKBDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDdIRHeKRDeKRDeKRDeKRDeKRDeJxDcHhHZDBLeKRDeKBDeKRDhOA/eKRDdIRHeKRDeKRDeJxDdIhDfKxDdJBD//wDcGhHfLRDgMQ/YBBPbERLdIBHcHRHbFxHlSQ3WABTteQnwiwfnXAzsdQrznQfxlAf/4AD/2wDZDBPZCxLhOQ/iOw7kRA3mUwzrawruggn1qgX/9wD/8QD/6ADZCRPoYwvtfQn7ygP5wwP5vQP80gKMIeF3AAAAK3RSTlMA8iUX5MuvQjwO6KqikTEG+u3c19OfmIWEgn1uYlke9vXz8u7d19DAurhdOYiqRAAAAY1JREFUOMt9k+dywyAQhFHi7jhO770nB6Kouvca2+nv/yoBjTxBsa3vBwy3C+ycBNLInOT3jOv71HG6iBZZP74DAOH4ppxyhbX/+umNkALF1YZFQHEUkbPPvb4rqy5pzSyOQZHUDllL2NWGrU4QpYFHO9RUjq30XC/e2uXvdrn8RgT2OR9WLBcCLkLDY3U8as8q9ebAAyD+Kys5ELAT5iNjxlptxppY7sRura5yBhSCgCa18Reb/PTLRN1tel05h6igh/LYziebtLgPCuxxLiAkLw3bAHadlSzWtFWJupWGChmSRRm5h3/UbLtUxaoBxAlCzjlHJ9JgEccUjmdhE7o+6Q0FhTn7KCVHtTUYqTmqCO6oRoUk0S5oeHQ6tbheySFDX1JReydYrxhRg4nV544adiAKji5zMmQsD7KRsWygdLzhDKGrWMM6Qgdx+pP6neMMm0hytFrPo4DdVfp2MXwzsRco0ltL9RftYewtyokM0ikstDCLomxuXGpyKrPsfZ8fJBOGkUjun138VX8Bv56Mh1BF5BoAAAAASUVORK5CYII=)
