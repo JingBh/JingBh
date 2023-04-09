@@ -18,18 +18,19 @@ coding since 2017.*
   </summary>
 
 *Nothing here for now...*
+
 </details>
 
-<details open>
+<details>
   <summary>
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin">
   </summary>
 
-Platforms:
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+
 </details>
 
-<details open>
+<details>
   <summary>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
@@ -37,37 +38,27 @@ Platforms:
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logocolor=white">
   </summary>
 
-Frameworks:
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue%2Ejs-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D">
-<img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=00DC82">
-<img alt="Express.js" src="https://img.shields.io/badge/Express%2Ejs-404D59?style=flat&logo=express&logoColor=61DAFB">
-<img alt="Electron" src="https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white">
-<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101">  
-Styling Libraries:
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0EA5E9?style=flat&logo=tailwind-css&logoColor=white">  
-Tooling:
-<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=flat&logo=yarn&logoColor=white">
-<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white">
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue%2Ejs-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D">  
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0EA5E9?style=flat&logo=tailwind-css&logoColor=white">
+
 </details>
 
-<details open>
+<details>
   <summary>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
   </summary>
 
-Frameworks:
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+
 </details>
 
-<details open>
+<details>
   <summary>
     <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
   </summary>
 
-Runtimes:
 <img alt="Conda" src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white">
+
 </details>
 
 > #### Do you know...
@@ -98,19 +89,19 @@ Note that I'm **NOT** a daily Linux user.
 
 ## Editor & IDE
 
-![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 ![JetBrains IDEs](https://img.shields.io/badge/JetBrains%20IDEs-F3F3F3?style=flat&logo=jetbrains&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## Education
 
-[![BJUT 2022-](https://img.shields.io/badge/BJUT-2022-555?labelColor=00AEC7&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAn1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Kd3m4AAAANHRSTlMAp/f7q763ovPU0ODZjOTEr+idmO7Mk8C0uYA2x1dzblxPdmfqyYUgRDwxJhqaYg5MLyp4/PJFMgAAAgFJREFUOMuNk+e22yAQhCUBAgTqXZZ7u263Zd7/2YKQr+3YOSf5fmpHswvMOg8cVzyhlObrvfM3Fj7zXQuL6dtL+VDWVVfReluyrOry0n9yCaPdvAFEGqkU8Pg6S98f661euBBJzINIB1HTC4RrsbvXfb2IwLbNxiMASNroAtul6G7+6dTbsCDCnW3j6SmWY33iTQvhSzxC+pawlfiwAln5nhvgiaDEruVDfSlnUBLPEB2IlTobAbuwoibmiwwsMoo8GKSLvAkd59TvRoPicPqaGL4c5+wOFlupqthxZn6OWNjTpTLjbp4P11wA0A3CeuJwmqAlGMku3FhdBaZx7s8d6va6h8Hjl2o+n3HXOGT2gzkcrYwg0Bp2hu/JYjE9TIzB52YQMEGTzAhkWeNKk/hAbxTdIAjIKIgVI9Yx4aaF2yycsYfX2hacUk8OgvR03h+Px/354/T9y/akGIac+RVYaoci3gB+iHp7zFMfksYneMFrlb0oh+WxSkiUSBVG2xjyLVA14qUmsb3q8bEAFXZsDneqZkuEK2SfMUBm6jw+dwLwd07z2i0DnsUrFicXAnQt/wlMCjdSrRiecVOb4G2Y+ac1gblFTlwH0zotCCylidw9tFOFgUKWfTmKmQ3tQ+w5/qAzsX9anHVyq4rMLs7r6oWcBaWfhXb1/nd5/7n+vwEyO1gsxeXhggAAAABJRU5ErkJggg==)](https://www.bjut.edu.cn/)
+[![BJUT 2022-](https://img.shields.io/badge/BJUT-2022---555?labelColor=00AEC7&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAn1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Kd3m4AAAANHRSTlMAp/f7q763ovPU0ODZjOTEr+idmO7Mk8C0uYA2x1dzblxPdmfqyYUgRDwxJhqaYg5MLyp4/PJFMgAAAgFJREFUOMuNk+e22yAQhCUBAgTqXZZ7u263Zd7/2YKQr+3YOSf5fmpHswvMOg8cVzyhlObrvfM3Fj7zXQuL6dtL+VDWVVfReluyrOry0n9yCaPdvAFEGqkU8Pg6S98f661euBBJzINIB1HTC4RrsbvXfb2IwLbNxiMASNroAtul6G7+6dTbsCDCnW3j6SmWY33iTQvhSzxC+pawlfiwAln5nhvgiaDEruVDfSlnUBLPEB2IlTobAbuwoibmiwwsMoo8GKSLvAkd59TvRoPicPqaGL4c5+wOFlupqthxZn6OWNjTpTLjbp4P11wA0A3CeuJwmqAlGMku3FhdBaZx7s8d6va6h8Hjl2o+n3HXOGT2gzkcrYwg0Bp2hu/JYjE9TIzB52YQMEGTzAhkWeNKk/hAbxTdIAjIKIgVI9Yx4aaF2yycsYfX2hacUk8OgvR03h+Px/354/T9y/akGIac+RVYaoci3gB+iHp7zFMfksYneMFrlb0oh+WxSkiUSBVG2xjyLVA14qUmsb3q8bEAFXZsDneqZkuEK2SfMUBm6jw+dwLwd07z2i0DnsUrFicXAnQt/wlMCjdSrRiecVOb4G2Y+ac1gblFTlwH0zotCCylidw9tFOFgUKWfTmKmQ3tQ+w5/qAzsX9anHVyq4rMLs7r6oWcBaWfhXb1/nd5/7n+vwEyO1gsxeXhggAAAABJRU5ErkJggg==)](https://www.bjut.edu.cn/)
 [![THHS 2019-2022](https://img.shields.io/badge/THHS-2019--2022-555?labelColor=660975&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAt1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8QiqlJAAAAPHRSTlMAoli91m1GsGBchBPGqZaAclMi38G3nWlLNSsf2qWKUArqzcmTkDowJvPu5dG0+pp8ZD4oGxh3QQatD/VUOcjGAAACkUlEQVQ4y2XS127jMBRF0SNSvfferWJbknuP/v+7RvEgU5L1RPBeYAME8Zdt0NRJWYedOAU/dXTrtrx9TSKrGbeajW+0HbPcdVZ0KBO7jOlOxr/izXhB7IjurG+8vXYrEG3G8u+8nxvEmUcFMezvoXw/VOUD9e71NV/PBxD6lO01+GxvA5JCKh7042th58Oo6AlAxgam81kXV2MIR8VbNuDIMGugpO46y89VAyDSNPExH38HLpDZO8CvXFwYHWfXXbZPGwHSjAVdDqcOULZCGASSZB75VAWQ0xuqw3K/u1xm4TO7OTC/+e0mBsBuXuIAmCksbQkgV3lCiEQsQqyRAOA7lB89vH2pUwWArktBQbrwcOP41sSCc0FlsOQqyFjke+25F0Sz0lkjNwAolQpdQHom2wKLJp9E30nOaaDyNx2LoEluKtJ15HdYMFIj752IZ72VxflYHLWwGMGeSf0u0rXEt3VfMC5DgveC1FzFEWlUeCKA19Oip6buQqoyEsmwkDc2p4KVSmoAiH1+xe23PExvZdsUi0x/+AI8/VEzVyDcnzxDZjigUBnFVYCozqAa4FJwQg/c5Iuh2cihyLEC4QRYk6hse7zmdb9aPZDXUhhYUVCIXBIRR4JSUxwHAJ6A9Emg+bwRcHpgcsf8UNDDQxdaDCaAZL5cXQ4qwLbibEhtn7bgM5vRIc745FcwcBpi3rwdWzMUo/wYkUFBqcwS3j6eAKOdi7gLu9C6k76z4poDKg+Ld8TA0FpQAMPnZCwsQcVqiy/nnePKk8aOySten0+DK2TyyhlK/JFs2QRJkjsm0LCcfcV9p+I/+s6Lgava+BM+/++Gwzf9tGU1UkzZPZicann8ny6mx47CxNaa+E/9F0abQ3GBuHR4AAAAAElFTkSuQmCC)](https://www.qhfz.edu.cn/)
 
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/JingBh)
 [![E-mail (personal)](https://img.shields.io/badge/E--mail-Personal-informational?style=flat)](mailto:jingbohao@yeah.net)
-[![E-mail (school)](https://img.shields.io/badge/E--mail-School-informational?style=flat)](mailto:jingbh@emails.bjut.edu.cn)
+[![E-mail (academic)](https://img.shields.io/badge/E--mail-Academic-informational?style=flat)](mailto:jingbh@emails.bjut.edu.cn)
 
 [![GPG Key](https://img.shields.io/badge/GPG%20Key-A2E8%20AFCF%20CAD1%208D47-orange?style=flat)](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xa2e8afcfcad18d47)
 

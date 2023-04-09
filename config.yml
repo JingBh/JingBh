@@ -46,10 +46,10 @@ params:
 
   socialIcons:
     - name: "email"
-      title: "E-mail (Personal)"
+      title: "E-mail (personal)"
       url: "mailto:jingbohao@yeah.net"
     - name: "email"
-      title: "E-mail (School)"
+      title: "E-mail (academic)"
       url: "mailto:jingbh@emails.bjut.edu.cn"
     - name: "telegram"
       url: "https://t.me/JingBh"
