@@ -26,7 +26,7 @@ coding since 2017.*
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin">
   </summary>
 
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+*Nothing here for now...*
 
 </details>
 
