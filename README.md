@@ -1,7 +1,6 @@
 # JingBh
 
-*A student who loves programming,  
-coding since 2017.*
+*A student who loves programming.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jingbh.vercel.app/api?username=JingBh&show_icons=true&count_private=true&theme=blue-green&border_color=0f3e3e">
@@ -11,58 +10,16 @@ coding since 2017.*
 
 ## Programming Languages
 
-<details>
-  <summary>
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  </summary>
-
-*Nothing here for now...*
-
-</details>
-
-<details>
-  <summary>
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin">
-  </summary>
-
-*Nothing here for now...*
-
-</details>
-
-<details>
-  <summary>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logocolor=white">
-  </summary>
-
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue%2Ejs-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D">  
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0EA5E9?style=flat&logo=tailwind-css&logoColor=white">
-
-</details>
-
-<details>
-  <summary>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-  </summary>
-
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
-
-</details>
-
-<details>
-  <summary>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
-  </summary>
-
-<img alt="Conda" src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white">
-
-</details>
-
-> #### Do you know...
-> that the list above is actually ordered by the time I learned **the language** `DESC` (most recent on top).
+- ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white) *(Still learning)*
+- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logocolor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ### WakaTime Stats
 
@@ -76,25 +33,9 @@ coding since 2017.*
   </a>
 </p>
 
-## Server Operation
-
-![Docker](https://img.shields.io/badge/Docker-0DB7Ed?style=flat&logo=docker&logoColor=white)
-
-### Linux
-
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
-
-Note that I'm **NOT** a daily Linux user.
-
-## Editor & IDE
-
-![JetBrains IDEs](https://img.shields.io/badge/JetBrains%20IDEs-F3F3F3?style=flat&logo=jetbrains&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
-
 ## Education
 
-[![BJUT 2022-](https://img.shields.io/badge/BJUT-2022---555?labelColor=00AEC7&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAn1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Kd3m4AAAANHRSTlMAp/f7q763ovPU0ODZjOTEr+idmO7Mk8C0uYA2x1dzblxPdmfqyYUgRDwxJhqaYg5MLyp4/PJFMgAAAgFJREFUOMuNk+e22yAQhCUBAgTqXZZ7u263Zd7/2YKQr+3YOSf5fmpHswvMOg8cVzyhlObrvfM3Fj7zXQuL6dtL+VDWVVfReluyrOry0n9yCaPdvAFEGqkU8Pg6S98f661euBBJzINIB1HTC4RrsbvXfb2IwLbNxiMASNroAtul6G7+6dTbsCDCnW3j6SmWY33iTQvhSzxC+pawlfiwAln5nhvgiaDEruVDfSlnUBLPEB2IlTobAbuwoibmiwwsMoo8GKSLvAkd59TvRoPicPqaGL4c5+wOFlupqthxZn6OWNjTpTLjbp4P11wA0A3CeuJwmqAlGMku3FhdBaZx7s8d6va6h8Hjl2o+n3HXOGT2gzkcrYwg0Bp2hu/JYjE9TIzB52YQMEGTzAhkWeNKk/hAbxTdIAjIKIgVI9Yx4aaF2yycsYfX2hacUk8OgvR03h+Px/354/T9y/akGIac+RVYaoci3gB+iHp7zFMfksYneMFrlb0oh+WxSkiUSBVG2xjyLVA14qUmsb3q8bEAFXZsDneqZkuEK2SfMUBm6jw+dwLwd07z2i0DnsUrFicXAnQt/wlMCjdSrRiecVOb4G2Y+ac1gblFTlwH0zotCCylidw9tFOFgUKWfTmKmQ3tQ+w5/qAzsX9anHVyq4rMLs7r6oWcBaWfhXb1/nd5/7n+vwEyO1gsxeXhggAAAABJRU5ErkJggg==)](https://www.bjut.edu.cn/)
+[![BJUT 2022-](https://img.shields.io/badge/BJUT-2022---555?labelColor=0096C3&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAn1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Kd3m4AAAANHRSTlMAp/f7q763ovPU0ODZjOTEr+idmO7Mk8C0uYA2x1dzblxPdmfqyYUgRDwxJhqaYg5MLyp4/PJFMgAAAgFJREFUOMuNk+e22yAQhCUBAgTqXZZ7u263Zd7/2YKQr+3YOSf5fmpHswvMOg8cVzyhlObrvfM3Fj7zXQuL6dtL+VDWVVfReluyrOry0n9yCaPdvAFEGqkU8Pg6S98f661euBBJzINIB1HTC4RrsbvXfb2IwLbNxiMASNroAtul6G7+6dTbsCDCnW3j6SmWY33iTQvhSzxC+pawlfiwAln5nhvgiaDEruVDfSlnUBLPEB2IlTobAbuwoibmiwwsMoo8GKSLvAkd59TvRoPicPqaGL4c5+wOFlupqthxZn6OWNjTpTLjbp4P11wA0A3CeuJwmqAlGMku3FhdBaZx7s8d6va6h8Hjl2o+n3HXOGT2gzkcrYwg0Bp2hu/JYjE9TIzB52YQMEGTzAhkWeNKk/hAbxTdIAjIKIgVI9Yx4aaF2yycsYfX2hacUk8OgvR03h+Px/354/T9y/akGIac+RVYaoci3gB+iHp7zFMfksYneMFrlb0oh+WxSkiUSBVG2xjyLVA14qUmsb3q8bEAFXZsDneqZkuEK2SfMUBm6jw+dwLwd07z2i0DnsUrFicXAnQt/wlMCjdSrRiecVOb4G2Y+ac1gblFTlwH0zotCCylidw9tFOFgUKWfTmKmQ3tQ+w5/qAzsX9anHVyq4rMLs7r6oWcBaWfhXb1/nd5/7n+vwEyO1gsxeXhggAAAABJRU5ErkJggg==)](https://www.bjut.edu.cn/)
 [![THHS 2019-2022](https://img.shields.io/badge/THHS-2019--2022-555?labelColor=660975&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAt1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8QiqlJAAAAPHRSTlMAoli91m1GsGBchBPGqZaAclMi38G3nWlLNSsf2qWKUArqzcmTkDowJvPu5dG0+pp8ZD4oGxh3QQatD/VUOcjGAAACkUlEQVQ4y2XS127jMBRF0SNSvfferWJbknuP/v+7RvEgU5L1RPBeYAME8Zdt0NRJWYedOAU/dXTrtrx9TSKrGbeajW+0HbPcdVZ0KBO7jOlOxr/izXhB7IjurG+8vXYrEG3G8u+8nxvEmUcFMezvoXw/VOUD9e71NV/PBxD6lO01+GxvA5JCKh7042th58Oo6AlAxgam81kXV2MIR8VbNuDIMGugpO46y89VAyDSNPExH38HLpDZO8CvXFwYHWfXXbZPGwHSjAVdDqcOULZCGASSZB75VAWQ0xuqw3K/u1xm4TO7OTC/+e0mBsBuXuIAmCksbQkgV3lCiEQsQqyRAOA7lB89vH2pUwWArktBQbrwcOP41sSCc0FlsOQqyFjke+25F0Sz0lkjNwAolQpdQHom2wKLJp9E30nOaaDyNx2LoEluKtJ15HdYMFIj752IZ72VxflYHLWwGMGeSf0u0rXEt3VfMC5DgveC1FzFEWlUeCKA19Oip6buQqoyEsmwkDc2p4KVSmoAiH1+xe23PExvZdsUi0x/+AI8/VEzVyDcnzxDZjigUBnFVYCozqAa4FJwQg/c5Iuh2cihyLEC4QRYk6hse7zmdb9aPZDXUhhYUVCIXBIRR4JSUxwHAJ6A9Emg+bwRcHpgcsf8UNDDQxdaDCaAZL5cXQ4qwLbibEhtn7bgM5vRIc745FcwcBpi3rwdWzMUo/wYkUFBqcwS3j6eAKOdi7gLu9C6k76z4poDKg+Ld8TA0FpQAMPnZCwsQcVqiy/nnePKk8aOySten0+DK2TyyhlK/JFs2QRJkjsm0LCcfcV9p+I/+s6Lgava+BM+/++Gwzf9tGU1UkzZPZicann8ny6mx47CxNaa+E/9F0abQ3GBuHR4AAAAAElFTkSuQmCC)](https://www.qhfz.edu.cn/)
 
 ## Contact
