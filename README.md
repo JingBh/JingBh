@@ -10,7 +10,7 @@
 
 ## Programming Languages
 
-- ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white) *(Still learning)*
+- ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
 - ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
