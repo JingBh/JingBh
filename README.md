@@ -1,7 +1,5 @@
 # JingBh
 
-*A student who loves programming.*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jingbh.vercel.app/api?username=JingBh&show_icons=true&count_private=true&theme=blue-green&border_color=0f3e3e">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jingbh.vercel.app/api?username=JingBh&show_icons=true&count_private=true&theme=buefy&border_color=dad7d7">
@@ -33,16 +31,10 @@
   </a>
 </p>
 
-## Education
-
-[![BJUT 2022-](https://img.shields.io/badge/BJUT-2022---555?labelColor=0096C3&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAn1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Kd3m4AAAANHRSTlMAp/f7q763ovPU0ODZjOTEr+idmO7Mk8C0uYA2x1dzblxPdmfqyYUgRDwxJhqaYg5MLyp4/PJFMgAAAgFJREFUOMuNk+e22yAQhCUBAgTqXZZ7u263Zd7/2YKQr+3YOSf5fmpHswvMOg8cVzyhlObrvfM3Fj7zXQuL6dtL+VDWVVfReluyrOry0n9yCaPdvAFEGqkU8Pg6S98f661euBBJzINIB1HTC4RrsbvXfb2IwLbNxiMASNroAtul6G7+6dTbsCDCnW3j6SmWY33iTQvhSzxC+pawlfiwAln5nhvgiaDEruVDfSlnUBLPEB2IlTobAbuwoibmiwwsMoo8GKSLvAkd59TvRoPicPqaGL4c5+wOFlupqthxZn6OWNjTpTLjbp4P11wA0A3CeuJwmqAlGMku3FhdBaZx7s8d6va6h8Hjl2o+n3HXOGT2gzkcrYwg0Bp2hu/JYjE9TIzB52YQMEGTzAhkWeNKk/hAbxTdIAjIKIgVI9Yx4aaF2yycsYfX2hacUk8OgvR03h+Px/354/T9y/akGIac+RVYaoci3gB+iHp7zFMfksYneMFrlb0oh+WxSkiUSBVG2xjyLVA14qUmsb3q8bEAFXZsDneqZkuEK2SfMUBm6jw+dwLwd07z2i0DnsUrFicXAnQt/wlMCjdSrRiecVOb4G2Y+ac1gblFTlwH0zotCCylidw9tFOFgUKWfTmKmQ3tQ+w5/qAzsX9anHVyq4rMLs7r6oWcBaWfhXb1/nd5/7n+vwEyO1gsxeXhggAAAABJRU5ErkJggg==)](https://www.bjut.edu.cn/)
-[![THHS 2019-2022](https://img.shields.io/badge/THHS-2019--2022-555?labelColor=660975&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAt1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8QiqlJAAAAPHRSTlMAoli91m1GsGBchBPGqZaAclMi38G3nWlLNSsf2qWKUArqzcmTkDowJvPu5dG0+pp8ZD4oGxh3QQatD/VUOcjGAAACkUlEQVQ4y2XS127jMBRF0SNSvfferWJbknuP/v+7RvEgU5L1RPBeYAME8Zdt0NRJWYedOAU/dXTrtrx9TSKrGbeajW+0HbPcdVZ0KBO7jOlOxr/izXhB7IjurG+8vXYrEG3G8u+8nxvEmUcFMezvoXw/VOUD9e71NV/PBxD6lO01+GxvA5JCKh7042th58Oo6AlAxgam81kXV2MIR8VbNuDIMGugpO46y89VAyDSNPExH38HLpDZO8CvXFwYHWfXXbZPGwHSjAVdDqcOULZCGASSZB75VAWQ0xuqw3K/u1xm4TO7OTC/+e0mBsBuXuIAmCksbQkgV3lCiEQsQqyRAOA7lB89vH2pUwWArktBQbrwcOP41sSCc0FlsOQqyFjke+25F0Sz0lkjNwAolQpdQHom2wKLJp9E30nOaaDyNx2LoEluKtJ15HdYMFIj752IZ72VxflYHLWwGMGeSf0u0rXEt3VfMC5DgveC1FzFEWlUeCKA19Oip6buQqoyEsmwkDc2p4KVSmoAiH1+xe23PExvZdsUi0x/+AI8/VEzVyDcnzxDZjigUBnFVYCozqAa4FJwQg/c5Iuh2cihyLEC4QRYk6hse7zmdb9aPZDXUhhYUVCIXBIRR4JSUxwHAJ6A9Emg+bwRcHpgcsf8UNDDQxdaDCaAZL5cXQ4qwLbibEhtn7bgM5vRIc745FcwcBpi3rwdWzMUo/wYkUFBqcwS3j6eAKOdi7gLu9C6k76z4poDKg+Ld8TA0FpQAMPnZCwsQcVqiy/nnePKk8aOySten0+DK2TyyhlK/JFs2QRJkjsm0LCcfcV9p+I/+s6Lgava+BM+/++Gwzf9tGU1UkzZPZicann8ny6mx47CxNaa+E/9F0abQ3GBuHR4AAAAAElFTkSuQmCC)](https://www.qhfz.edu.cn/)
-
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/JingBh)
 [![E-mail (personal)](https://img.shields.io/badge/E--mail-Personal-informational?style=flat)](mailto:jingbohao@yeah.net)
-[![E-mail (academic)](https://img.shields.io/badge/E--mail-Academic-informational?style=flat)](mailto:jingbh@emails.bjut.edu.cn)
+[![E-mail (business)](https://img.shields.io/badge/E--mail-Business-informational?style=flat)](mailto:bohao.jing@z.ai)
 
 [![GPG Key](https://img.shields.io/badge/GPG%20Key-A2E8%20AFCF%20CAD1%208D47-orange?style=flat)](https://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xa2e8afcfcad18d47)
 
